@@ -1,0 +1,14 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:drawable="@drawable/rectangular_shape_radio_button_regular_state"
+        android:state_checked="true"
+        android:state_pressed="true" />
+    <item
+        android:drawable="@drawable/a"
+        android:state_pressed="true" />
+    <item
+        android:drawable="@drawable/a"
+        android:state_checked="true" />
+    <item
+        android:drawable="@drawable/rectangular_shape_radio_button_regular_state" />
+</selector>
